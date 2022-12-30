@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:postgresql://localhost:5432/tg-chat</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="pw@51.38.163.49" uuid="8ad10969-2fbc-4e2b-8838-addae544a234">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://51.38.163.49:3306/pw</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
