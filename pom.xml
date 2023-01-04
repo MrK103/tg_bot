@@ -17,7 +17,7 @@
         <module>common-utils</module>
         <module>mail-service</module>
         <module>rest-pw-test-server</module>
-        <module>main-site</module>
+        <module>pw-site</module>
     </modules>
 
     <properties>
